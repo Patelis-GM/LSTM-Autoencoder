@@ -1,6 +1,6 @@
 
 # Stock Anomaly Detection using LSTM Encoder-Decoder Architecture
-This project was developed for the "Algorithms in Software Development" course at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens. It focuses on detecting anomalies in stock prices utilizing a Long Short-Term Memory (LSTM) recurrent neural network with an encoder-decoder architecture. The model is implemented using TensorFlow framework and utilizes historical stock price data from Yahoo Finance.
+This project focuses on detecting anomalies in stock prices utilizing a Long Short-Term Memory (LSTM) recurrent neural network with an encoder-decoder architecture. The model is implemented using TensorFlow framework and utilizes historical stock price data from Yahoo Finance.
 
 # Project Overview
 The project consists of two main Python files:
